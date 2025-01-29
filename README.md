@@ -3,11 +3,12 @@
 <h2>👩‍💻 Data Projects:</h2>
 
 - <b>Eclipse and Mozilla Bug Classification</b>
+  - [Bug Reporting Tracking Data (link unfinished)](https://github.com/SellaMek)
 
 - <b>Slack Chatbot</b>
-  
+    - [Chatbot Data (link unfinished)](https://github.com/SellaMek)
 - <b>City Hypertension Analysis</b>
-
+  - [Health Data (link unfinished)](https://github.com/SellaMek)
 
 <h2> 🤳 Connect with me:</h2>
 
